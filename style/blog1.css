@@ -3,16 +3,10 @@
 
 }
 
-.azeret-mono-normal {
+body{
+
   font-family: "Azeret Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
 }
-
-
-
-.Azeret Mono {}
 
 nav ul li {
   list-style: none;
