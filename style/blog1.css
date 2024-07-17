@@ -1,0 +1,262 @@
+.header2 {
+  justify-items: center;
+
+}
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+.Azeret Mono {}
+
+nav ul li {
+  list-style: none;
+  padding: 17px 24px 17px 24px;
+  color: rgb(13, 19, 33);
+  font-size: 20px;
+  margin-right: 50px;
+
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 120px;
+  align-items: center;
+}
+
+.btn-heading {
+  width: 150px;
+  height: 40px;
+
+}
+
+.banner1 {
+  /* Hero-bg */
+
+  width: 1250px;
+  height: 330px;
+  left: 0;
+  right: 0;
+  top: 70px;
+  bottom: 2235px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px;
+  justify-items: center;
+  background-image: url(../assets/Hero-bg.png);
+
+}
+
+.banner tittle1 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 35px;
+  letter-spacing: 0%;
+  text-align: center;
+
+}
+
+.descrived {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0%;
+  text-align: center;
+  opacity: 0.7;
+
+}
+
+.banner box {
+
+  /* Hero-bg */
+  position: absolute;
+  width: 1440px;
+  height: 652px;
+  left: 0;
+  right: 0;
+  top: 131px;
+  bottom: 4462px;
+
+}
+
+.btn1 {
+  margin-bottom: 28px;
+}
+
+main {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.section1 {
+  border-radius: 16px;
+
+  background: rgba(13, 19, 33, 0.02);
+  padding: 45px 60px;
+  margin-top: 60px;
+}
+
+.section-tittle {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.description {}
+
+.parts1 {
+  /* Frame 8 */
+  position: static;
+  width: 1000px;
+  height: 150px;
+  /* Auto layout */
+  display: flex;
+  flex-direction:row;
+  justify-content:space-between;
+  align-items: flex-start;
+  padding:15px;
+  border-radius: 10px;
+
+  background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+
+
+  /* Inside Auto Layout */
+  flex: none;
+  order: 0;
+  align-items: stretch;
+  flex-grow: 0;
+  margin: 30px 0px;
+  padding: 14px;
+}
+.div-title{
+  /* I will Do Coding and Change The World */
+position: static;
+width: 250px;
+height: 40px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 16px 0px;
+}
+
+
+
+.div-pic{
+  /* Group */
+
+}
+
+div>p {
+  text-align: left;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.btn2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0%;
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  opacity: 0.7;
+  position: static;
+  width: 130px;
+  height: 48px;
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 12px 8px 12px;
+}
+.parts2{
+  text-justify: auto;
+}
+.div-pic1{
+  width: 223.2px;
+height: 130px;
+margin: 0px;
+}
+
+
+part3{
+  /* Frame 9 */
+position: static;
+width: 400px;
+height: 220px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin:0px 32px;
+
+}
+.section2{
+
+  /* Frame 15 */
+position: absolute;
+width: 1140px;
+height: 600px;
+left: 80px;
+right: 75px;
+top: 1200px;
+bottom: 1100px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+padding: 0px;
+margin-top: 180px;
+
+}
+.link-box{
+width: 900px;
+height: 400px;
+padding: 32px;
+
+
+
+
+}
+.container{
+  width: 1000px;
+  height: 500px;
+}
